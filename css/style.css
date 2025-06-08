@@ -1,9 +1,9 @@
 .glass-nav {
-  background-color: rgb(3, 27, 3);
+  background-color: rgb(224, 226, 224);
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
 }
 .navbar-nav .nav-link {
-  color: #fff !important;
+  color: rgb(3, 27, 3) !important;
   font-weight: 500;
   transition: all 0.3s ease;
 }
