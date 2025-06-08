@@ -1,5 +1,5 @@
 .glass-nav {
-  background: linear-gradient(100deg, #093402, #284b23, #5a8a62);
+  background: linear-gradient(to bottom, #093402, #284b23, #5a8a62, #ffffff);
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
 }
 .navbar-nav .nav-link {
