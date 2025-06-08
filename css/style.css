@@ -33,20 +33,14 @@
   max-height: 80vh; 
   width: 100%; 
 }
-.site-footer
-{
-  background-color:#3d0a33;
-  padding:40px 0 10px;
-  font-size:15px;
-  line-height:24px;
-  color:#737373;
-}
+
 
 .accordion-container {
   max-width: 500px;
   margin: auto;
 }
 
-.sitefooter{
+.footerstyle{
+  padding-left: 20px;
   color: #200965;
 }
