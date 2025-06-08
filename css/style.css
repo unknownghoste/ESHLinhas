@@ -44,7 +44,7 @@
 
 
 .footer-container {
-  background-color: rgb(7, 72, 7);;
+  background-color: rgb(3, 27, 3);;
   color: whitesmoke;
   padding: 40px 60px;
   font-family: 'Segoe UI', sans-serif;
@@ -111,5 +111,5 @@
   margin-top: 30px;
   padding-top: 15px;
   font-size: 14px;
-  color: #777;
+  color: #d85d11;
 }
