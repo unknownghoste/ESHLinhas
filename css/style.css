@@ -28,6 +28,25 @@
 }
 
 
+#mapa-linhas h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  color: #093402;
+}
+
+select.form-select, button.btn {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  border-radius: 12px;
+}
+
+
+
+
+
+
+
+
 
 
 
